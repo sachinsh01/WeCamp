@@ -20,7 +20,7 @@
       <ul><a href="#requirements">Requirements</a></ul>
       <ul><a href="#installing">Installing</a></ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#how-to-use">How To Use</a></li>
   </ol>
 </details>
 
@@ -55,7 +55,7 @@
 2. Install all the dependencies using node package manager
 3. Create a `.env` file in the root directory and store the Cloudinary cloud name, key, secret, and MapBox token
 
-## Usage
+## How To Use
 1. Run the MongoDB server locally on your machine.
 2. Run the application locally through terminal.
 3. The website can be accessed from your machine locally at the url `http://localhost:3000/`.
