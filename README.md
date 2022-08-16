@@ -42,6 +42,7 @@
 * [PassportJS](https://www.passportjs.org/)
 * [MapBox](https://www.mapbox.com/)
 
+It is deployed on [Heroku](https://invulnerable-fromage-02142.herokuapp.com/). To run this application locally, follow the instructions below.
 
 ## Installation
 
